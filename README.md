@@ -16,7 +16,7 @@ Currently focused on strengthening my foundations in **Data Structures & Algorit
 
 ## 🛠️ Skills
 
-* **Languages:** C, Python
+* **Languages:** C, Python, C++
 * **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
 * **Interests:** Software Engineering, Problem Solving, Competitive Programming
 
